@@ -1,0 +1,15 @@
+:root {
+    --grey: rgb(172, 172, 172);
+}
+.bg {
+    background-image: url('./images/22.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 130vh; position: fixed; top: -130px; left: 0;
+    z-index: -1;
+}
+
+
+.shapes {
+    position: absolute;
+}
